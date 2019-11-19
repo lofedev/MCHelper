@@ -1,10 +1,6 @@
 <div align="center">
 
 <img src="https://depressive.club/dq3pcg52ns.png">
-
-## License
-Copyright (c) 2019 Lofe<br>
-<br>
 Permission is hereby granted, free of charge, to any person obtaining a copy<br>
 of this software and associated documentation files (the "Software"), to deal<br>
 in the Software without restriction, including without limitation the rights<br>
