@@ -6,6 +6,7 @@
 
 [![rmx](https://img.shields.io/badge/GLITCH-REMIX%20NOW-red?style=for-the-badge&logo=Glitch)](https://glitch.com/edit/#!/remix/lofe-mchelper)
 [![rmx](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)](https://github.com/OfficialLofe/MCHelper/blob/master/LICENSE)
+[![rmx](https://img.shields.io/badge/SUPPORT-GET%20SUPPORT-green?style=for-the-badge&logo=Glitch)](https://glitch.com/edit/#!/remix/lofe-mchelper)
 </div>
 
 # Installation
