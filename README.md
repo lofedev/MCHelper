@@ -4,6 +4,9 @@
 
 [![rmx](https://img.shields.io/badge/GLITCH-REMIX%20NOW-red?style=for-the-badge&logo=Glitch)](https://glitch.com/edit/#!/remix/lofe-mchelper)
 [![rmx](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)](https://github.com/OfficialLofe/MCHelper/blob/master/LICENSE)
-</center>
-make an uptimerobot monitor for your glitch project domain, such as <b>https://lofe-mchelper.glitch.me</b>
 </div>
+
+# Installation
+ * Remix MCHelper by [remixing this glitch project](https://glitch.com/edit/#!/remix/lofe-mchelper).
+ * Register an uptimerobot account, and create a **HTTP(S) MONITOR**. Put the following in: **PROJECT_NAME.glitch.me**, but replace PROJECT_NAME with your project's name.
+ 
