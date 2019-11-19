@@ -5,6 +5,9 @@
 // copyright lofe all rights reserved
 //
 
+// if you are making your own private instance, please leave credit.
+// hosting is optimised for glitch.
+
 const Discord = require('discord.js');
 const {prefix, token} = require('./config.json');
 const client = new Discord.Client();
