@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # MCHelper
 
@@ -6,4 +6,4 @@
 [![rmx](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)](https://github.com/OfficialLofe/MCHelper/blob/master/LICENSE)
 </center>
 make an uptimerobot monitor for your glitch project domain, such as **https://lofe-mchelper.glitch.me/**
-</p>
+</div>
