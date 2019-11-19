@@ -2,8 +2,6 @@
 
 <img src="https://depressive.club/dq3pcg52ns.png">
 
-<b>the best thing to ever exist</b>
-
 ## License
 Copyright (c) 2019 Lofe<br>
 <br>
