@@ -20,4 +20,4 @@
  
 ## Credits
 * Lofe#1820     | Project Manager, Coder
-* shnopy#2525   | Helping me make a better way to add factoids.
+* shnopy#2525   | Coder
