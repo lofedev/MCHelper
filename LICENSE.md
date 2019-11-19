@@ -9,8 +9,7 @@
 [![rmx](https://img.shields.io/badge/SUPPORT-GET%20SUPPORT-7289DA?style=for-the-badge&logo=Discord)](https://discord.gg/CgskRWy)
 </div>
 
-MIT License<br>
-<br>
+## License
 Copyright (c) 2019 Lofe<br>
 <br>
 Permission is hereby granted, free of charge, to any person obtaining a copy<br>
