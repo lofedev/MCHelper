@@ -9,7 +9,10 @@
 [![rmx](https://img.shields.io/badge/SUPPORT-GET%20SUPPORT-7289DA?style=for-the-badge&logo=Discord)](https://discord.gg/CgskRWy)
 </div>
 
-# Installation
+# Bot
+* Invite via https://s.lofe.xyz/mchelper
+
+# Private Instances
  * Remix MCHelper by [remixing this glitch project](https://glitch.com/edit/#!/remix/lofe-mchelper).
  * Make sure to put your bot's token in the **.env** file!
  * Register an uptimerobot account, and create a **HTTP(S) MONITOR**. Put the following in: **PROJECT_NAME.glitch.me**, but replace PROJECT_NAME with your project's name.
