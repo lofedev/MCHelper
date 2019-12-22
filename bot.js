@@ -62,7 +62,7 @@ client.on('message', async message => {
         .setColor('22D3EF')
         .setTitle("DM commands are not supported!")
         .setDescription("I cannot read commands from a DM! Sorry.")
-        .addField("**Support Server**", "https://discord.gg/CgskRWy", true)
+        // support server removed
         .setFooter('® - Lofe')
         return message.channel.send(embed);
     };
