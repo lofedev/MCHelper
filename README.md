@@ -6,8 +6,6 @@
 
 [![rmx](https://img.shields.io/badge/GLITCH-REMIX%20NOW-red?style=for-the-badge&logo=Glitch)](https://glitch.com/edit/#!/remix/lofe-mchelper)
 [![rmx](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)](https://github.com/OfficialLofe/MCHelper/blob/master/LICENSE.md)
-[![rmx](https://img.shields.io/badge/SUPPORT-GET%20SUPPORT-7289DA?style=for-the-badge&logo=Discord)](https://discord.gg/CgskRWy)
-</div>
 
 ## Official Bot
 <b>This is the only official MCHelper bot, all others are community hosted. Learn how below.</b>
